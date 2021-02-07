@@ -17,3 +17,5 @@ cd aws-live
 ls
 vim config.py
 mysql -h employee.cpx5ctuw3ukd.us-east-1.rds.amazonaws.com -u username -p
+git--version
+git --version
