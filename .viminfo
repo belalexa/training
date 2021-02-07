@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1612495385,,"wq"
+|2,0,1612667635,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -28,14 +28,29 @@
 |3,0,18,0,1,0,1612495362,"€kb€kb€kbi€ýaw"
 
 # File marks:
-'0  1  10  ~/aws-live/config.py
-|4,48,1,10,1612495385,"~/aws-live/config.py"
+'0  4  0  ~/laser
+|4,48,4,0,1612667635,"~/laser"
+'1  1  10  ~/aws-live/config.py
+|4,49,1,10,1612495385,"~/aws-live/config.py"
 
 # Jumplist (newest first):
+-'  4  0  ~/laser
+|4,39,4,0,1612667635,"~/laser"
+-'  1  0  ~/laser
+|4,39,1,0,1612667604,"~/laser"
+-'  1  10  ~/aws-live/config.py
+|4,39,1,10,1612495385,"~/aws-live/config.py"
 -'  1  10  ~/aws-live/config.py
 |4,39,1,10,1612495385,"~/aws-live/config.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/laser
+	*	1612667631	0
+	"	4	0
+	^	4	0
+	.	3	9
+	+	3	9
 
 > ~/aws-live/config.py
 	*	1612495381	0
